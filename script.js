@@ -6,5 +6,5 @@ let count = 0;
 
 function increment() {
   count =+ 1;
-  countWl.innerText = count;
+  countEl.innerText = count;
 }
